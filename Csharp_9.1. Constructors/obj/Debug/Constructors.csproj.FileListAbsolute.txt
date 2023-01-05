@@ -1,0 +1,6 @@
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab09\STARTER\CONSTRUCTORS\bin\Debug\Constructors.exe
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab09\STARTER\CONSTRUCTORS\bin\Debug\Constructors.pdb
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab09\STARTER\CONSTRUCTORS\obj\Debug\Constructors.csproj.AssemblyReference.cache
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab09\STARTER\CONSTRUCTORS\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab09\STARTER\CONSTRUCTORS\obj\Debug\Constructors.exe
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab09\STARTER\CONSTRUCTORS\obj\Debug\Constructors.pdb
