@@ -1,0 +1,12 @@
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab05\STARTER\UTILITY\bin\Debug\Utils.exe
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab05\STARTER\UTILITY\bin\Debug\Utils.pdb
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab05\STARTER\UTILITY\obj\Debug\Utils.csproj.AssemblyReference.cache
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab05\STARTER\UTILITY\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab05\STARTER\UTILITY\obj\Debug\Utils.exe
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab05\STARTER\UTILITY\obj\Debug\Utils.pdb
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab05\STARTER_factorial\UTILITY\bin\Debug\Utils.exe
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab05\STARTER_factorial\UTILITY\bin\Debug\Utils.pdb
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab05\STARTER_factorial\UTILITY\obj\Debug\Utils.csproj.AssemblyReference.cache
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab05\STARTER_factorial\UTILITY\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab05\STARTER_factorial\UTILITY\obj\Debug\Utils.exe
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab05\STARTER_factorial\UTILITY\obj\Debug\Utils.pdb
