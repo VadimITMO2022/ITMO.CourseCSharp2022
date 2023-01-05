@@ -1,0 +1,45 @@
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab02\Greeting\Greeting\bin\Debug\net6.0\Greeting.exe
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab02\Greeting\Greeting\bin\Debug\net6.0\Greeting.deps.json
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab02\Greeting\Greeting\bin\Debug\net6.0\Greeting.runtimeconfig.json
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab02\Greeting\Greeting\bin\Debug\net6.0\Greeting.dll
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab02\Greeting\Greeting\bin\Debug\net6.0\Greeting.pdb
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab02\Greeting\Greeting\obj\Debug\net6.0\Greeting.csproj.AssemblyReference.cache
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab02\Greeting\Greeting\obj\Debug\net6.0\Greeting.GeneratedMSBuildEditorConfig.editorconfig
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab02\Greeting\Greeting\obj\Debug\net6.0\Greeting.AssemblyInfoInputs.cache
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab02\Greeting\Greeting\obj\Debug\net6.0\Greeting.AssemblyInfo.cs
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab02\Greeting\Greeting\obj\Debug\net6.0\Greeting.csproj.CoreCompileInputs.cache
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab02\Greeting\Greeting\obj\Debug\net6.0\Greeting.dll
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab02\Greeting\Greeting\obj\Debug\net6.0\refint\Greeting.dll
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab02\Greeting\Greeting\obj\Debug\net6.0\Greeting.pdb
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab02\Greeting\Greeting\obj\Debug\net6.0\Greeting.genruntimeconfig.cache
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab02\Greeting\Greeting\obj\Debug\net6.0\ref\Greeting.dll
+C:\Users\vadim\source\repos\2.1.Greeting\Greeting\bin\Debug\net6.0\Greeting.exe
+C:\Users\vadim\source\repos\2.1.Greeting\Greeting\bin\Debug\net6.0\Greeting.deps.json
+C:\Users\vadim\source\repos\2.1.Greeting\Greeting\bin\Debug\net6.0\Greeting.runtimeconfig.json
+C:\Users\vadim\source\repos\2.1.Greeting\Greeting\bin\Debug\net6.0\Greeting.dll
+C:\Users\vadim\source\repos\2.1.Greeting\Greeting\bin\Debug\net6.0\Greeting.pdb
+C:\Users\vadim\source\repos\2.1.Greeting\Greeting\obj\Debug\net6.0\Greeting.csproj.AssemblyReference.cache
+C:\Users\vadim\source\repos\2.1.Greeting\Greeting\obj\Debug\net6.0\Greeting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadim\source\repos\2.1.Greeting\Greeting\obj\Debug\net6.0\Greeting.AssemblyInfoInputs.cache
+C:\Users\vadim\source\repos\2.1.Greeting\Greeting\obj\Debug\net6.0\Greeting.AssemblyInfo.cs
+C:\Users\vadim\source\repos\2.1.Greeting\Greeting\obj\Debug\net6.0\Greeting.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\repos\2.1.Greeting\Greeting\obj\Debug\net6.0\Greeting.dll
+C:\Users\vadim\source\repos\2.1.Greeting\Greeting\obj\Debug\net6.0\refint\Greeting.dll
+C:\Users\vadim\source\repos\2.1.Greeting\Greeting\obj\Debug\net6.0\Greeting.pdb
+C:\Users\vadim\source\repos\2.1.Greeting\Greeting\obj\Debug\net6.0\Greeting.genruntimeconfig.cache
+C:\Users\vadim\source\repos\2.1.Greeting\Greeting\obj\Debug\net6.0\ref\Greeting.dll
+C:\Users\vadim\source\repos\2.4.DivideIt\Greeting\obj\Debug\net6.0\Greeting.csproj.AssemblyReference.cache
+C:\Users\vadim\source\repos\2.4.DivideIt\Greeting\obj\Debug\net6.0\Greeting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadim\source\repos\2.4.DivideIt\Greeting\obj\Debug\net6.0\Greeting.AssemblyInfoInputs.cache
+C:\Users\vadim\source\repos\2.4.DivideIt\Greeting\obj\Debug\net6.0\Greeting.AssemblyInfo.cs
+C:\Users\vadim\source\repos\2.4.DivideIt\Greeting\obj\Debug\net6.0\Greeting.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\repos\2.4.DivideIt\Greeting\obj\Debug\net6.0\Greeting.dll
+C:\Users\vadim\source\repos\2.4.DivideIt\Greeting\obj\Debug\net6.0\refint\Greeting.dll
+C:\Users\vadim\source\repos\2.4.DivideIt\Greeting\obj\Debug\net6.0\Greeting.pdb
+C:\Users\vadim\source\repos\2.4.DivideIt\Greeting\bin\Debug\net6.0\Greeting.exe
+C:\Users\vadim\source\repos\2.4.DivideIt\Greeting\bin\Debug\net6.0\Greeting.deps.json
+C:\Users\vadim\source\repos\2.4.DivideIt\Greeting\bin\Debug\net6.0\Greeting.runtimeconfig.json
+C:\Users\vadim\source\repos\2.4.DivideIt\Greeting\bin\Debug\net6.0\Greeting.dll
+C:\Users\vadim\source\repos\2.4.DivideIt\Greeting\bin\Debug\net6.0\Greeting.pdb
+C:\Users\vadim\source\repos\2.4.DivideIt\Greeting\obj\Debug\net6.0\Greeting.genruntimeconfig.cache
+C:\Users\vadim\source\repos\2.4.DivideIt\Greeting\obj\Debug\net6.0\ref\Greeting.dll
