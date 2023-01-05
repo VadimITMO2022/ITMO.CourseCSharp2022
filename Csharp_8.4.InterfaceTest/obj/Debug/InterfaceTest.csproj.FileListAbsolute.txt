@@ -1,0 +1,12 @@
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения_Git\Csharp_8.4. INTERFACETEST not done\bin\Debug\Utils.exe
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения_Git\Csharp_8.4. INTERFACETEST not done\bin\Debug\Utils.pdb
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения_Git\Csharp_8.4. INTERFACETEST not done\obj\Debug\InterfaceTest.csproj.AssemblyReference.cache
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения_Git\Csharp_8.4. INTERFACETEST not done\obj\Debug\InterfaceTest.csproj.CoreCompileInputs.cache
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения_Git\Csharp_8.4. INTERFACETEST not done\obj\Debug\Utils.exe
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения_Git\Csharp_8.4. INTERFACETEST not done\obj\Debug\Utils.pdb
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения_Git\Csharp_8.4. INTERFACETEST not done-\obj\Debug\InterfaceTest.csproj.AssemblyReference.cache
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения_Git\Csharp_8.4. INTERFACETEST not done-\obj\Debug\InterfaceTest.csproj.CoreCompileInputs.cache
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения_Git\Csharp_8.4. INTERFACETEST not done-\obj\Debug\Utils.exe
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения_Git\Csharp_8.4. INTERFACETEST not done-\obj\Debug\Utils.pdb
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения_Git\Csharp_8.4. INTERFACETEST not done-\bin\Debug\Utils.exe
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения_Git\Csharp_8.4. INTERFACETEST not done-\bin\Debug\Utils.pdb
