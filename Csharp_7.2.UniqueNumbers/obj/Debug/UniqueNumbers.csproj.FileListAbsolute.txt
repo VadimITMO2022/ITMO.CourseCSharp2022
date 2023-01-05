@@ -1,0 +1,6 @@
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab07\STARTER\UNIQUENUMBERS\bin\Debug\UniqueNumbers.exe
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab07\STARTER\UNIQUENUMBERS\bin\Debug\UniqueNumbers.pdb
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab07\STARTER\UNIQUENUMBERS\obj\Debug\UniqueNumbers.csproj.AssemblyReference.cache
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab07\STARTER\UNIQUENUMBERS\obj\Debug\UniqueNumbers.csproj.CoreCompileInputs.cache
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab07\STARTER\UNIQUENUMBERS\obj\Debug\UniqueNumbers.exe
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab07\STARTER\UNIQUENUMBERS\obj\Debug\UniqueNumbers.pdb
