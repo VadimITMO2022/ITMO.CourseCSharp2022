@@ -1,0 +1,17 @@
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab07\STARTER\CREATEACCOUNT\bin\Debug\CreateAccount.exe
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab07\STARTER\CREATEACCOUNT\bin\Debug\CreateAccount.pdb
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab07\STARTER\CREATEACCOUNT\obj\Debug\CreateAccount.csprojResolveAssemblyReference.cache
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab07\STARTER\CREATEACCOUNT\obj\Debug\CreateAccount.exe
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab07\STARTER\CREATEACCOUNT\obj\Debug\CreateAccount.pdb
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Задания\CSharpLabs\Lab07\STARTER\CREATEACCOUNT\bin\Debug\CreateAccount.exe
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Задания\CSharpLabs\Lab07\STARTER\CREATEACCOUNT\bin\Debug\CreateAccount.pdb
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Задания\CSharpLabs\Lab07\STARTER\CREATEACCOUNT\obj\Debug\CreateAccount.csproj.AssemblyReference.cache
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Задания\CSharpLabs\Lab07\STARTER\CREATEACCOUNT\obj\Debug\CreateAccount.csproj.CoreCompileInputs.cache
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Задания\CSharpLabs\Lab07\STARTER\CREATEACCOUNT\obj\Debug\CreateAccount.exe
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Задания\CSharpLabs\Lab07\STARTER\CREATEACCOUNT\obj\Debug\CreateAccount.pdb
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab07\STARTER\CREATEACCOUNT\bin\Debug\CreateAccount.exe
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab07\STARTER\CREATEACCOUNT\bin\Debug\CreateAccount.pdb
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab07\STARTER\CREATEACCOUNT\obj\Debug\CreateAccount.csproj.AssemblyReference.cache
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab07\STARTER\CREATEACCOUNT\obj\Debug\CreateAccount.csproj.CoreCompileInputs.cache
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab07\STARTER\CREATEACCOUNT\obj\Debug\CreateAccount.exe
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab07\STARTER\CREATEACCOUNT\obj\Debug\CreateAccount.pdb
