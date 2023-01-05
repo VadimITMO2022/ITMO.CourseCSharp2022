@@ -1,0 +1,3 @@
+C:\Users\vadim\source\repos\FILEDETAILS\bin\Debug\FileDetails.exe Arg1 Arg2 Arg3
+
+C:\Users\vadim\Arg1

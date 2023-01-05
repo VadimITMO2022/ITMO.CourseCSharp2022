@@ -1,0 +1,23 @@
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab06\STARTER\FILEDETAILS\bin\Debug\FileDetails.exe
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab06\STARTER\FILEDETAILS\bin\Debug\FileDetails.pdb
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab06\STARTER\FILEDETAILS\obj\Debug\FileDetails.csprojResolveAssemblyReference.cache
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab06\STARTER\FILEDETAILS\obj\Debug\FileDetails.exe
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab06\STARTER\FILEDETAILS\obj\Debug\FileDetails.pdb
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab06\STARTER\FILEDETAILS\bin\Debug\FileDetails.exe
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab06\STARTER\FILEDETAILS\bin\Debug\FileDetails.pdb
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab06\STARTER\FILEDETAILS\obj\Debug\FileDetails.csproj.AssemblyReference.cache
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab06\STARTER\FILEDETAILS\obj\Debug\FileDetails.csproj.CoreCompileInputs.cache
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab06\STARTER\FILEDETAILS\obj\Debug\FileDetails.exe
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab06\STARTER\FILEDETAILS\obj\Debug\FileDetails.pdb
+C:\Users\vadim\source\repos\FILEDETAILS\bin\Debug\FileDetails.exe
+C:\Users\vadim\source\repos\FILEDETAILS\obj\Debug\FileDetails.csproj.AssemblyReference.cache
+C:\Users\vadim\source\repos\FILEDETAILS\obj\Debug\FileDetails.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\repos\FILEDETAILS\obj\Debug\FileDetails.exe
+C:\Users\vadim\source\repos\FILEDETAILS\obj\Debug\FileDetails.pdb
+C:\Users\vadim\source\repos\FILEDETAILS\bin\Debug\FileDetails.pdb
+C:\Users\vadim\source\repos\FILEDETAILS_vowels\obj\Debug\FileDetails.csproj.AssemblyReference.cache
+C:\Users\vadim\source\repos\FILEDETAILS_vowels\obj\Debug\FileDetails.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\repos\FILEDETAILS_vowels\obj\Debug\FileDetails.exe
+C:\Users\vadim\source\repos\FILEDETAILS_vowels\obj\Debug\FileDetails.pdb
+C:\Users\vadim\source\repos\FILEDETAILS_vowels\bin\Debug\FileDetails.exe
+C:\Users\vadim\source\repos\FILEDETAILS_vowels\bin\Debug\FileDetails.pdb
