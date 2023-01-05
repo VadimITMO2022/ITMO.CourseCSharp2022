@@ -1,0 +1,12 @@
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab11\EXERCISE2\STARTER\BANK\obj\Debug\Bank.csproj.AssemblyReference.cache
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab11\EXERCISE2\STARTER\BANK\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab11\EXERCISE2\STARTER\BANK\bin\Debug\Bank.exe
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab11\EXERCISE2\STARTER\BANK\bin\Debug\Bank.pdb
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab11\EXERCISE2\STARTER\BANK\obj\Debug\Bank.exe
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab11\EXERCISE2\STARTER\BANK\obj\Debug\Bank.pdb
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab11\EXERCISE2\STARTER\BANK_Banking2\bin\Debug\Bank.exe
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab11\EXERCISE2\STARTER\BANK_Banking2\bin\Debug\Bank.pdb
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab11\EXERCISE2\STARTER\BANK_Banking2\obj\Debug\Bank.csproj.AssemblyReference.cache
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab11\EXERCISE2\STARTER\BANK_Banking2\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab11\EXERCISE2\STARTER\BANK_Banking2\obj\Debug\Bank.exe
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab11\EXERCISE2\STARTER\BANK_Banking2\obj\Debug\Bank.pdb

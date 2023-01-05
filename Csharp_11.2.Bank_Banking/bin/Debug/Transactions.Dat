@@ -1,0 +1,52 @@
+Account number is 123
+Account balance is 10
+Account type is Checking
+Transactions:
+Date/Time: 08.11.2022 16:57:56	Amount: 100
+Date/Time: 08.11.2022 16:57:58	Amount: -90
+Account number is 123
+Account balance is 20
+Account type is Checking
+Transactions:
+Date/Time: 08.11.2022 16:58:31	Amount: 100
+Date/Time: 08.11.2022 16:58:33	Amount: -80
+Account number is 123
+Account balance is 80
+Account type is Checking
+Transactions:
+Date/Time: 08.11.2022 16:58:44	Amount: 80
+Account number is 123
+Account balance is 200
+Account type is Checking
+Transactions:
+Date/Time: 08.11.2022 17:07:38	Amount: 700
+Date/Time: 08.11.2022 17:07:40	Amount: -500
+Account number is 123
+Account balance is 60
+Account type is Checking
+Transactions:
+Date/Time: 08.11.2022 17:10:09	Amount: 60
+Account number is 123
+Account balance is 1
+Account type is Checking
+Transactions:
+Date/Time: 08.11.2022 17:13:48	Amount: 800
+Date/Time: 08.11.2022 17:13:52	Amount: -799
+Account number is 123
+Account balance is 92
+Account type is Checking
+Transactions:
+Date/Time: 08.11.2022 17:15:52	Amount: 700
+Date/Time: 08.11.2022 17:15:55	Amount: -608
+Account number is 123
+Account balance is 0
+Account type is Checking
+Transactions:
+Date/Time: 08.11.2022 17:17:49	Amount: 89
+Date/Time: 08.11.2022 17:17:51	Amount: -89
+Account number is 123
+Account balance is 550
+Account type is Checking
+Transactions:
+Date/Time: 08.11.2022 19:56:47	Amount: 600
+Date/Time: 08.11.2022 19:56:49	Amount: -50
