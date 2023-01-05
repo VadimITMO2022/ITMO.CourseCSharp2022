@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Iowa\\6. Программирование\\2. Мои курсы ИТМО\\Инженер-программист\\2. Модули\\3. Программирование на C#\\5. Практика\\Решения_Git\\Csharp_3.2. StructType\\StructType\\StructType.csproj": {}
+  },
+  "projects": {
+    "F:\\Iowa\\6. Программирование\\2. Мои курсы ИТМО\\Инженер-программист\\2. Модули\\3. Программирование на C#\\5. Практика\\Решения_Git\\Csharp_3.2. StructType\\StructType\\StructType.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Iowa\\6. Программирование\\2. Мои курсы ИТМО\\Инженер-программист\\2. Модули\\3. Программирование на C#\\5. Практика\\Решения_Git\\Csharp_3.2. StructType\\StructType\\StructType.csproj",
+        "projectName": "StructType",
+        "projectPath": "F:\\Iowa\\6. Программирование\\2. Мои курсы ИТМО\\Инженер-программист\\2. Модули\\3. Программирование на C#\\5. Практика\\Решения_Git\\Csharp_3.2. StructType\\StructType\\StructType.csproj",
+        "packagesPath": "C:\\Users\\vadim\\.nuget\\packages\\",
+        "outputPath": "F:\\Iowa\\6. Программирование\\2. Мои курсы ИТМО\\Инженер-программист\\2. Модули\\3. Программирование на C#\\5. Практика\\Решения_Git\\Csharp_3.2. StructType\\StructType\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
