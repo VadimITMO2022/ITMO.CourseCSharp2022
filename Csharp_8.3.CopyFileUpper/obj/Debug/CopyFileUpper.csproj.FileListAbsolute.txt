@@ -1,0 +1,12 @@
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab08\STARTER\COPYFILEUPPER\bin\Debug\CopyFileUpper.exe
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab08\STARTER\COPYFILEUPPER\bin\Debug\CopyFileUpper.pdb
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab08\STARTER\COPYFILEUPPER\obj\Debug\CopyFileUpper.csproj.AssemblyReference.cache
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab08\STARTER\COPYFILEUPPER\obj\Debug\CopyFileUpper.csproj.CoreCompileInputs.cache
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab08\STARTER\COPYFILEUPPER\obj\Debug\CopyFileUpper.exe
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения\Lab08\STARTER\COPYFILEUPPER\obj\Debug\CopyFileUpper.pdb
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения_Git\Csharp_8.3. COPYFILEUPPER not done\bin\Debug\CopyFileUpper.exe
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения_Git\Csharp_8.3. COPYFILEUPPER not done\bin\Debug\CopyFileUpper.pdb
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения_Git\Csharp_8.3. COPYFILEUPPER not done\obj\Debug\CopyFileUpper.csproj.AssemblyReference.cache
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения_Git\Csharp_8.3. COPYFILEUPPER not done\obj\Debug\CopyFileUpper.csproj.CoreCompileInputs.cache
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения_Git\Csharp_8.3. COPYFILEUPPER not done\obj\Debug\CopyFileUpper.exe
+F:\Iowa\6. Программирование\2. Мои курсы ИТМО\Инженер-программист\2. Модули\3. Программирование на C#\5. Практика\Решения_Git\Csharp_8.3. COPYFILEUPPER not done\obj\Debug\CopyFileUpper.pdb
